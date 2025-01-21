@@ -1,0 +1,33 @@
+body {
+    background-color: #f5f5f5;
+    font-family: 'Georgia', serif;
+    color: #4b0082;
+}
+
+h1 {
+    color: #4b0082;
+    text-align: center;
+}
+
+form {
+    background-color: #e6e6fa;
+    padding: 20px;
+    border: 2px solid #4b0082;
+    width: 300px;
+    margin: 20px auto;
+    border-radius: 10px;
+    text-align: center;
+}
+
+button {
+    background-color: #4b0082;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #9932cc;
+}
