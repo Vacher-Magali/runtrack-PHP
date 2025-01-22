@@ -1,0 +1,1 @@
+SELECT Nom, Capacites FROM `salles` WHERE 1 ;
